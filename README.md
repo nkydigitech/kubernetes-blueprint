@@ -75,6 +75,19 @@ Start Here → Fundamentals → Architecture → Pods → Deployments → Servic
 | [github-blueprint](https://github.com/nkydigitech/github-blueprint) | Git & GitHub | 🚧 Coming Soon |
 | [docker-blueprint](https://github.com/nkydigitech/docker-blueprint) | Docker | 🚧 Coming Soon |
 
+## Hands-On Labs (All $0 Cost with kind)
+
+| Lab | Topic | Cost |
+|-----|-------|------|
+| [Lab 00](labs/00-setup/) | Setup: kind Cluster + kubectl | $0 |
+| [Lab 01](labs/01-pods-deployments/) | Pods and Deployments — Run and Scale | $0 |
+| [Lab 02](labs/02-services-networking/) | Services and Networking — Expose Your App | $0 |
+| [Lab 03](labs/03-configmaps-secrets/) | ConfigMaps and Secrets — Configure Apps | $0 |
+| [Lab 04](labs/04-helm/) | Helm — Package Manager for Kubernetes | $0 |
+| [Lab 05](labs/05-capstone/) | Capstone: Multi-Tier App with Helm and Ingress | $0 |
+
+All labs use **kind** (Kubernetes in Docker) — a real K8s cluster running locally at zero cost.
+
 ## Connect
 
 - **LinkedIn:** [Nkechi Ahanonye](https://www.linkedin.com/in/nkechiahanonye)
