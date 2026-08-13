@@ -8,7 +8,9 @@
 
 > **From zero to deploying on K8s — one lab at a time.**
 
-**Built by [Nkechi Anna Ahanonye](https://www.linkedin.com/in/nkechiahanonye) for DevOps students who need relatable examples, not textbook theory.**
+**Built by [Nkechi Anna Ahanonye](https://www.linkedin.com/in/nkechiahanonye) — Cloud & DevOps Engineer | I turn manual, 3 AM-breaking deployments into 1-min automated pipelines with AWS + Ansible + Terraform | Featured: 15-Module Ansible Lab with real terminal**
+
+For DevOps students who need relatable, hands-on examples — not textbook theory.
 
 A static, beginner-to-hero Kubernetes learning platform designed for GitHub Pages. No build system required — just open `docs/index.html` in your browser.
 
