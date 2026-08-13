@@ -66,7 +66,7 @@ Start Here → Fundamentals → Architecture → Pods → Deployments → Servic
 |-----------|-------|--------|
 | [ansible-guide](https://github.com/nkydigitech/ansible-guide) | Ansible | ✅ Live |
 | [terraform-blueprint](https://github.com/nkydigitech/terraform-blueprint) | Terraform | ✅ Live |
-| [aws-blueprint-](https://github.com/nkydigitech/aws-blueprint-) | AWS | ✅ Live |
+| [aws-blueprint](https://github.com/nkydigitech/aws-blueprint) | AWS | ✅ Live |
 | [azure-blueprint](https://github.com/nkydigitech/azure-blueprint) | Azure | ✅ Live |
 | **kubernetes-blueprint** | **Kubernetes** | **✅ Live** |
 
