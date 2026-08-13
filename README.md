@@ -71,6 +71,9 @@ Start Here → Fundamentals → Architecture → Pods → Deployments → Servic
 | [aws-blueprint](https://github.com/nkydigitech/aws-blueprint) | AWS | ✅ Live |
 | [azure-blueprint](https://github.com/nkydigitech/azure-blueprint) | Azure | ✅ Live |
 | **kubernetes-blueprint** | **Kubernetes** | **✅ Live** |
+| [linux-blueprint](https://github.com/nkydigitech/linux-blueprint) | Linux Command Line | 🚧 Coming Soon |
+| [github-blueprint](https://github.com/nkydigitech/github-blueprint) | Git & GitHub | 🚧 Coming Soon |
+| [docker-blueprint](https://github.com/nkydigitech/docker-blueprint) | Docker | 🚧 Coming Soon |
 
 ## Connect
 
